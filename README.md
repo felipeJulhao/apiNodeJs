@@ -1,14 +1,14 @@
 # apiNodeJs
-Criando uma API em NodeJ
-Libs utilizadas
+# Criando uma API em NodeJ
+# Libs utilizadas
 Express
 Typescript
 Mongo DB
 Mongoose
 
-Instalar dependencias
+# Instalar dependencias
 npm i
 npm i nodemon
 
-Executando o projeto
+# Executando o projeto
 npm start
