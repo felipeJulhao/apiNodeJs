@@ -1,7 +1,4 @@
 # Desenvolvimento de uma API NodeJS com Banco MongoDB
-
-## Exemplo de código utilizado em Aula
-
 ## Libs utilizadas
 - Express
 - Typescript
@@ -12,11 +9,11 @@
 ## Instalar dependencias
 
 ```
-yarn install
+npm install
 ``` 
 
 ## Executando o projeto 
 
 ```
-yarn start
+npm start
 ``` 
